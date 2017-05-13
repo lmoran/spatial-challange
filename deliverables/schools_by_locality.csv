@@ -1,0 +1,930 @@
+ssc_code16,ssc_name16,schools
+20002,Abbotsford (Vic.),2
+20003,Aberfeldie,4
+20013,Airly,1
+20014,Airport West,2
+20016,Albanvale,1
+20018,Alberton (Vic.),1
+20017,Albert Park (Vic.),2
+20020,Albion (Vic.),2
+20021,Alexandra (Vic.),3
+20022,Alfredton,2
+20027,Allansford,1
+20033,Alphington,3
+20035,Altona Meadows,3
+20036,Altona North,3
+20034,Altona (Vic.),4
+20037,Alvie,1
+20040,Amphitheatre,1
+20041,Anakie,1
+20045,Anglesea,1
+20048,Apollo Bay (Vic.),1
+20051,Apsley (Vic.),1
+20052,Ararat,6
+20061,Ardeer,2
+20062,Ardmona,1
+20065,Armadale (Vic.),3
+20067,Armstrong Creek (Vic.),1
+20070,Arthurs Creek,1
+20074,Ascot Vale,4
+20076,Ashburton,3
+20077,Ashwood,4
+20078,Aspendale,4
+20079,Aspendale Gardens,1
+20085,Avenel,1
+20086,Avoca (Vic.),1
+20088,Avondale Heights,2
+20091,Axe Creek,1
+20092,Axedale,1
+20094,Bacchus Marsh,2
+20096,Badger Creek,1
+20102,Bairnsdale,8
+20107,Ballan,2
+20110,Ballarat Central,2
+20111,Ballarat East,3
+20112,Ballarat North,1
+20115,Balliang East,1
+20118,Balmoral (Vic.),1
+20119,Balnarring,1
+20122,Balwyn,3
+20123,Balwyn North,7
+20128,Bandiana,1
+20130,Bangholme,1
+20132,Bannockburn (Vic.),1
+20135,Baranduda,2
+20137,Baringhup,1
+20145,Barnawartha,1
+20161,Barwon Heads,1
+20168,Baxter,1
+20170,Bayles,1
+20173,Bayswater North,1
+20172,Bayswater (Vic.),5
+20175,Beaconsfield Upper,1
+20174,Beaconsfield (Vic.),2
+20176,Bealiba,1
+20180,Beaufort (Vic.),2
+20181,Beaumaris (Vic.),3
+20183,Beeac,1
+20185,Beechworth,4
+20187,Belgrave,3
+20189,Belgrave South,1
+20194,Bellbrae,1
+20197,Bellfield (Banyule - Vic.),1
+20190,Bell Park,4
+20191,Bell Post Hill,3
+20200,Belmont (Vic.),8
+20203,Benalla,5
+20207,Bendigo,7
+20213,Bentleigh,4
+20214,Bentleigh East,7
+20223,Berwick,13
+20228,Bethanga,1
+20230,Beulah (Vic.),1
+20231,Beverford,1
+20232,Beveridge,1
+20234,Big Hill (Greater Bendigo - Vic.),1
+20243,Birchip,1
+20246,Birregurra,1
+20247,Bittern,1
+20251,Blackburn,5
+20252,Blackburn North,3
+20253,Blackburn South,3
+20248,Black Hill (Vic.),1
+20250,Black Rock (Vic.),2
+20260,Blowhard,1
+20264,Bogong,1
+20269,Boisdale,1
+20271,Bolinda,1
+20273,Bolwarra (Vic.),1
+20275,Bona Vista,1
+20277,Bonbeach,1
+20279,Boneo,1
+20286,Boolarra,1
+20298,Boort,1
+20302,Boronia,5
+20313,Box Hill North,3
+20314,Box Hill South,2
+20312,Box Hill (Vic.),3
+20320,Branxholme,1
+20322,Braybrook,6
+20328,Briagolong,1
+20329,Briar Hill,2
+20333,Bridgewater On Loddon,1
+20336,Brighton East,4
+20335,Brighton (Vic.),8
+20334,Bright (Vic.),1
+20343,Broadford,2
+20344,Broadmeadows (Vic.),8
+20347,Broken Creek,1
+20349,Brookfield (Vic.),1
+20350,Brooklyn (Vic.),1
+20354,Brown Hill (Vic.),1
+20360,Brunswick East,3
+20359,Brunswick (Vic.),4
+20361,Brunswick West,3
+20362,Bruthen,1
+20363,Buangor,1
+20364,Buchan,1
+20382,Bullarto,1
+20384,Bulleen,3
+20388,Buln Buln,1
+20392,Bundalaguah,1
+20397,Bundoora (Vic.),7
+20402,Bungaree (Vic.),1
+20407,Buninyong,1
+20409,Bunyip,2
+20418,Burnside Heights,1
+20425,Burwood East,5
+20424,Burwood (Vic.),5
+20429,Buxton (Vic.),1
+20435,Cabarita (Vic.),1
+20439,Cairnlea,1
+20442,California Gully,1
+20451,Camberwell (Vic.),5
+20453,Campbellfield,1
+20455,Campbells Creek,2
+20458,Camperdown (Vic.),3
+20459,Canadian,1
+20462,Cann River,1
+20466,Canterbury (Vic.),5
+20468,Cape Clear,1
+20484,Cardinia,1
+20485,Cardross,1
+20489,Carisbrook,1
+20490,Carlisle River,1
+20493,Carlton North,1
+20492,Carlton (Vic.),3
+20495,Carnegie,3
+20497,Caroline Springs,8
+20504,Carrum,1
+20505,Carrum Downs,4
+20510,Casterton,3
+20513,Castlemaine,5
+20519,Caulfield East,1
+20520,Caulfield North,4
+20521,Caulfield South,4
+20523,Cavendish,1
+20524,Ceres,1
+20525,Chadstone,2
+20532,Charlton (Vic.),2
+20534,Chelsea,2
+20535,Chelsea Heights,1
+20536,Cheltenham (Vic.),6
+20544,Chewton,1
+20548,Chiltern,2
+20553,Chirnside Park,2
+20556,Christmas Hills (Vic.),1
+20557,Chum Creek,1
+20558,Churchill (Vic.),3
+20563,Clarinda,2
+20564,Clarkefield,1
+20565,Clarkes Hill,1
+20566,Clayton,3
+20567,Clayton South,3
+20570,Clifton Creek,1
+20571,Clifton Hill,3
+20572,Clifton Springs,1
+20577,Clunes (Vic.),1
+20579,Clyde North,2
+20578,Clyde (Vic.),1
+20583,Cobains,1
+20587,Cobden,3
+20588,Cobram,4
+20592,Coburg,10
+20593,Coburg North,2
+20596,Cockatoo (Vic.),1
+20600,Cohuna,3
+20601,Coimadai,1
+20603,Colac,7
+20607,Colbinabbin,1
+20609,Coldstream (Vic.),1
+20610,Coleraine,2
+20612,Collingwood (Vic.),3
+20614,Concongella,1
+20616,Congupna,1
+20620,Coolaroo,2
+20632,Coragulac,1
+20635,Corinella (Vic.),1
+20636,Corio,3
+20644,Corryong,2
+20650,Cottles Bridge,1
+20653,Cowes,1
+20655,Cowwarr,1
+20657,Craigieburn,8
+20658,Cranbourne,7
+20659,Cranbourne East,5
+20660,Cranbourne North,4
+20661,Cranbourne South,1
+20662,Cranbourne West,1
+20667,Creswick,3
+20669,Crib Point,2
+20678,Croydon Hills,3
+20679,Croydon North,2
+20680,Croydon South,2
+20677,Croydon (Vic.),7
+20682,Cudgee,1
+20697,Dallas,4
+20701,Dalyston,1
+20702,Dandenong,9
+20703,Dandenong North,5
+20706,Dargo,1
+20707,Darley,2
+20710,Darnum,1
+20711,Darraweit Guim,1
+20713,Dartmoor (Vic.),1
+20716,Daylesford,4
+20718,Deans Marsh,1
+20720,Dederang,1
+20722,Deepdene (Vic.),2
+20723,Deer Park,3
+20724,Delacombe,2
+20725,Delahey,2
+20731,Dennington,1
+20737,Derrimut,2
+20739,Derrinallum,1
+20740,Devenish,1
+20742,Devon Meadows,1
+20743,Devon North,1
+20745,Dhurringile,1
+20746,Diamond Creek,4
+20748,Diggers Rest,1
+20750,Dimboola,3
+20751,Dingee,1
+20752,Dingley Village,3
+20754,Dinner Plain,1
+20756,Dixons Creek,1
+20764,Donald,3
+20765,Doncaster,4
+20766,Doncaster East,6
+20768,Donvale,5
+20763,Don Valley,1
+20771,Dookie,1
+20772,Dookie College,1
+20773,Doreen,4
+20777,Doveton,2
+20782,Dromana,3
+20784,Drouin,4
+20786,Drouin South,1
+20787,Drouin West,1
+20791,Drummartin,1
+20792,Drummond,1
+20796,Drysdale,5
+20803,Dunkeld (Vic.),1
+20806,Dunnstown,1
+20807,Dunolly (Vic.),1
+20817,Eaglehawk,3
+20816,Eagle Point,1
+20823,East Geelong,1
+20830,Eastwood (Vic.),1
+20832,Echuca,9
+20838,Edenhope,2
+20842,Edithvale,1
+20841,Edi Upper,1
+20844,Eildon,1
+20853,Elliminyt,2
+20854,Ellinbank,1
+20855,Elmhurst,1
+20856,Elmore,2
+20857,Elphinstone (Vic.),1
+20858,Elsternwick,4
+20860,Eltham North,4
+20859,Eltham (Vic.),5
+20861,Elwood,4
+20862,Emerald (Vic.),3
+20865,Endeavour Hills,9
+20872,Epping (Vic.),9
+20873,Epsom (Vic.),1
+20877,Eskdale (Vic.),1
+20879,Essendon,5
+20881,Essendon North,1
+20882,Essendon West,1
+20886,Euroa,3
+20890,Everton,1
+20892,Exford,1
+20895,Fairfield (Vic.),1
+20900,Falls Creek (Vic.),1
+20903,Fawkner,6
+20911,Ferntree Gully,9
+20912,Ferny Creek,1
+20915,Fish Creek,1
+20919,Fitzroy North,5
+20918,Fitzroy (Vic.),3
+20923,Flemington,3
+20925,Flora Hill,1
+20926,Flowerdale (Vic.),1
+20929,Footscray,7
+20931,Forest Hill (Vic.),1
+20933,Forrest (Vic.),1
+20934,Foster,2
+20941,Frankston,15
+20942,Frankston North,3
+20943,Frankston South,3
+20945,French Island,1
+20947,Freshwater Creek,1
+20959,Garfield (Vic.),1
+20966,Geelong,3
+20967,Geelong West,2
+20972,Gembrook,1
+20992,Girgarre,1
+20994,Gisborne,3
+20997,Gladstone Park,4
+20998,Gladysdale,1
+21018,Glengarry (Vic.),1
+21003,Glen Iris (Vic.),6
+21004,Glen Park,1
+21038,Glenrowan,1
+21040,Glenroy (Vic.),7
+21006,Glen Waverley,13
+21049,Golden Point (Ballarat - Vic.),1
+21051,Golden Square,2
+21058,Goongerah,1
+21062,Goornong,1
+21066,Gordon (Vic.),2
+21067,Gormandale,1
+21068,Goroke,1
+21077,Grahamvale,1
+21084,Grassmere,1
+21090,Great Western,1
+21096,Greensborough,8
+21097,Greenvale (Vic.),4
+21101,Greta South,1
+21106,Grovedale,5
+21107,Gruyere,1
+21108,Guildford (Vic.),1
+21109,Gunbower,1
+21115,Haddon,1
+21116,Hadfield,1
+21117,Hallam,2
+21119,Halls Gap,1
+21121,Hamilton (Vic.),9
+21122,Hamlyn Heights,3
+21124,Hampton East,1
+21125,Hampton Park,6
+21123,Hampton (Vic.),3
+21129,Harcourt,1
+21131,Harkaway,1
+21133,Harrietville,1
+21135,Harston,1
+21136,Hastings (Vic.),4
+21141,Hawkesdale,1
+21144,Hawthorn East,4
+21143,Hawthorn (Vic.),8
+21147,Hazelwood North,1
+21149,Healesville,4
+21151,Heathcote (Vic.),2
+21154,Heatherton,1
+21156,Heathmont,4
+21158,Heidelberg,4
+21160,Heidelberg West,1
+21163,Hepburn,1
+21165,Herne Hill (Vic.),2
+21167,Hesket,1
+21170,Heyfield,2
+21172,Heywood,2
+21176,Highett,1
+21177,Highlands,1
+21178,Highton,4
+21184,Hillside (Melton - Vic.),2
+21187,Hoddles Creek,1
+21192,Hopetoun (Vic.),2
+21194,Hoppers Crossing,10
+21197,Horsham,7
+21205,Hughesdale,3
+21210,Huntly,1
+21214,Hurstbridge,1
+21221,Indigo Valley,1
+21222,Inglewood (Vic.),2
+21224,Invergordon (Vic.),1
+21225,Inverleigh,1
+21226,Inverloch,1
+21227,Invermay (Vic.),1
+21232,Ironbark (Vic.),1
+21236,Irymple (Vic.),5
+21238,Ivanhoe East,2
+21237,Ivanhoe (Vic.),5
+21239,Jacana,1
+21244,Jamieson (Vic.),1
+21256,Jeparit,1
+21260,Jindivick,1
+21285,Kangaroo Flat (Vic.),4
+21286,Kangaroo Ground,1
+21287,Kaniva,1
+21298,Katamatite,1
+21301,Katandra West,1
+21302,Katunga,2
+21304,Kealba,1
+21306,Keilor,3
+21307,Keilor Downs,4
+21308,Keilor East,4
+21309,Keilor Lodge,1
+21318,Kennington,3
+21319,Kensington (Vic.),3
+21320,Kerang,5
+21325,Kerrie,1
+21329,Kew East,3
+21328,Kew (Vic.),11
+21331,Keysborough,6
+21332,Kialla,1
+21334,Kialla West,1
+21344,Kilmore,4
+21346,Kilsyth,4
+21350,Kinglake,1
+21351,Kinglake Central,1
+21352,Kinglake West,1
+21355,Kingsbury,2
+21354,Kings Park (Vic.),3
+21366,Knoxfield,2
+21370,Kongwak,1
+21376,Koondrook,1
+21378,Koonwarra,1
+21380,Koorlong,1
+21372,Koo Wee Rup,3
+21388,Koroit,2
+21391,Korumburra,3
+21403,Kurunjang,2
+21404,Kyabram,2
+21406,Kyneton,4
+21411,Labertouche,1
+21417,Laharum,1
+21418,Lake Boga,1
+21419,Lake Bolac,1
+21421,Lake Charm,1
+21426,Lake Gardens,2
+21440,Lakes Entrance,3
+21438,Lake Wendouree,2
+21441,Lal Lal,1
+21443,Lalor,8
+21445,Lancaster,1
+21447,Lancefield,2
+21448,Landsborough (Vic.),1
+21450,Lang Lang,1
+21456,Langley,1
+21458,Langwarrin,5
+21459,Langwarrin South,2
+21460,Lara,4
+21461,Lardner,1
+21464,Launching Place,1
+21466,Lavers Hill,1
+21467,Laverton (Vic.),4
+21477,Leitchville,1
+21478,Lemnos,1
+21479,Leneva,1
+21481,Leongatha,5
+21484,Leopold,1
+21487,Lethbridge,1
+21495,Lilydale (Vic.),8
+21500,Lindenow,1
+21501,Lindenow South,1
+21505,Linton,1
+21507,Lismore (Vic.),1
+21511,Little River (Vic.),1
+21514,Loch,1
+21515,Loch Sport,1
+21517,Lockington,1
+21519,Lockwood,1
+21520,Lockwood South,1
+21523,Londrigan,1
+21526,Longford (Vic.),1
+21525,Long Gully,1
+21528,Longwarry,1
+21530,Longwood (Vic.),1
+21532,Lorne (Vic.),1
+21534,Lovely Banks,1
+21537,Lower Plenty,1
+21544,Lynbrook,2
+21545,Lyndhurst (Vic.),1
+21548,Lysterfield,1
+21550,Macarthur (Vic.),1
+21551,Macclesfield (Vic.),1
+21552,Macedon,1
+21554,Macleod (Vic.),2
+21559,Maddingley,2
+21561,Maffra (Vic.),3
+21563,Magpie,1
+21564,Maiden Gully,1
+21573,Maldon (Vic.),1
+21574,Mallacoota,1
+21575,Malmsbury,1
+21577,Malvern East,6
+21576,Malvern (Vic.),3
+21579,Manangatang,1
+21583,Manifold Heights,1
+21588,Mansfield (Vic.),5
+21593,Maribyrnong,2
+21597,Marlo,1
+21598,Marnoo,1
+21601,Marong,1
+21602,Maroona,1
+21607,Maryborough (Vic.),3
+21609,Marysville,1
+21618,McKinnon,1
+21624,Meadow Heights,2
+21626,Meeniyan,1
+21629,Melbourne,8
+21632,Melton South,4
+21631,Melton (Vic.),2
+21633,Melton West,7
+21637,Mentone,8
+21638,Menzies Creek,1
+21642,Merbein,2
+21645,Meredith,1
+21647,Merino,1
+21648,Mernda,2
+21654,Merrigum,1
+21656,Merrijig (Mansfield - Vic.),1
+21662,Metung,1
+21664,Mickleham,2
+21666,Middle Park (Vic.),1
+21670,Milawa,1
+21671,Mildura,11
+21674,Millgrove,1
+21672,Mill Park,6
+21680,Miners Rest,1
+21687,Minyip,1
+21692,Mirboo North,2
+21694,Mitcham (Vic.),5
+21699,Mitta Mitta,1
+21704,Moe,5
+21715,Monbulk,4
+21720,Mont Albert,1
+21721,Mont Albert North,2
+21723,Montmorency,4
+21724,Montrose (Vic.),3
+21725,Moolap,1
+21728,Moonambel,1
+21730,Moonee Ponds,3
+21734,Moorabbin,5
+21742,Moorooduc,1
+21743,Mooroolbark,10
+21744,Mooroopna,4
+21745,Mooroopna North,1
+21748,Mordialloc,3
+21750,Moriac,1
+21751,Mornington (Vic.),7
+21755,Mortlake (Vic.),2
+21757,Morwell,7
+21760,Mount Beauty,2
+21771,Mount Clear,4
+21775,Mount Dandenong,1
+21778,Mount Duneed,1
+21780,Mount Egerton,1
+21781,Mount Eliza,7
+21783,Mount Evelyn,4
+21786,Mount Helen,1
+21789,Mount Macedon,2
+21791,Mount Martha,3
+21795,Mount Pleasant (Vic.),1
+21804,Mount Waverley,10
+21808,Moyhu,1
+21810,Moyston,1
+21812,Muckleford,1
+21815,Mulgrave (Vic.),5
+21820,Murchison (Vic.),1
+21828,Murrabit,1
+21833,Murrayville,1
+21837,Murrumbeena,2
+21838,Murtoa,2
+21847,Myrniong,1
+21848,Myrrhee,1
+21851,Myrtleford,3
+21855,Nagambie,2
+21858,Nambrok,1
+21862,Nangiloc,1
+21863,Nanneella,1
+21865,Napoleons,1
+21866,Nar Nar Goon,2
+21877,Narracan,1
+21880,Narrawong,1
+21881,Narre Warren,7
+21883,Narre Warren North,2
+21884,Narre Warren South,5
+21886,Nathalia,4
+21887,Natimuk,1
+21888,Natte Yallock,1
+21890,Navarre,1
+21892,Nayook,1
+21899,Neerim South,2
+21905,Nerrina,1
+21910,Newborough,4
+21913,Newcomb,3
+21909,New Gisborne,3
+21915,Newham,1
+21916,Newhaven,2
+21917,Newington (Vic.),3
+21919,Newlyn,1
+21921,Newmerella,1
+21922,Newport (Vic.),4
+21924,Newstead (Vic.),1
+21926,Newtown (Greater Geelong - Vic.),8
+21927,Nhill,3
+21929,Nicholson (Vic.),1
+21928,Nichols Point,1
+21930,Niddrie,2
+21931,Nilma,1
+21940,Noble Park,8
+21941,Noble Park North,3
+21942,Noojee,1
+21943,Noorat,1
+21945,Noorinbee,1
+21948,Norlane,1
+21951,North Bendigo,2
+21959,Northcote,6
+21954,North Melbourne,4
+21963,Nowa Nowa,1
+21969,Nullawarre,1
+21971,Nullawil,1
+21972,Numurkah,3
+21973,Nunawading,3
+21974,Nungurner,1
+21981,Nyah West,1
+21984,Nyora (Vic.),1
+21988,Oakleigh,3
+21989,Oakleigh East,1
+21990,Oakleigh South,3
+21986,Oak Park,2
+21993,Ocean Grove,3
+21994,Officer,3
+21997,Olinda (Vic.),1
+21999,Omeo,1
+22002,Orbost,4
+22004,Ormond,6
+22005,Orrvale,1
+22006,Osbornes Flat,1
+22008,Ouyen,1
+22010,Oxley (Vic.),1
+22015,Pakenham,9
+22019,Panmure,1
+22020,Panton Hill,1
+22025,Parkdale,3
+22024,Park Orchards,2
+22026,Parkville (Vic.),3
+22029,Pascoe Vale,5
+22030,Pascoe Vale South,1
+22035,Patterson Lakes,1
+22037,Paynesville (Vic.),1
+22038,Pearcedale,1
+22044,Penshurst (Vic.),2
+22053,Piangil,1
+22074,Point Cook,7
+22076,Point Lonsdale,1
+22082,Pomonal,1
+22086,Poowong,1
+22090,Porepunkah,1
+22097,Portarlington,1
+22093,Port Fairy,2
+22099,Portland North,1
+22098,Portland (Vic.),8
+22095,Port Melbourne,2
+22106,Prahran,1
+22109,Preston (Vic.),11
+22110,Princes Hill,2
+22112,Puckapunyal,1
+22117,Pyalong,1
+22118,Pyramid Hill,2
+22119,Quambatook,1
+22122,Quarry Hill,2
+22123,Queenscliff (Vic.),2
+22125,Rainbow,1
+22132,Rawson,1
+22134,Raywood,1
+22139,Redan,1
+22135,Red Cliffs,5
+22142,Redesdale,1
+22136,Red Hill (Vic.),1
+22148,Research,2
+22149,Reservoir (Vic.),13
+22158,Richmond (Vic.),6
+22160,Riddells Creek,1
+22163,Ringwood East,2
+22164,Ringwood North,3
+22162,Ringwood (Vic.),7
+22165,Ripplebrook,1
+22171,Robinvale,2
+22172,Rochester (Vic.),3
+22174,Rockbank,1
+22179,Rokewood,1
+22181,Romsey,1
+22182,Rosanna,4
+22186,Rosebud,3
+22187,Rosebud West,1
+22188,Rosedale (Vic.),1
+22196,Rowville,6
+22197,Roxburgh Park,5
+22198,Rubicon,1
+22203,Rupanyup,1
+22204,Rushworth,2
+22206,Rutherglen,3
+22209,Rye,1
+22213,Sailors Gully,1
+22215,Sale,9
+22223,Sandringham (Vic.),4
+22224,Sandy Creek (Vic.),1
+22218,San Remo (Vic.),1
+22228,Sassafras (Vic.),2
+22231,Scoresby,3
+22236,Seabrook,1
+22238,Seaford (Vic.),8
+22239,Seaholme,1
+22235,Sea Lake,2
+22240,Seaspray,1
+22244,Sebastopol (Vic.),4
+22247,Selby,1
+22252,Seville,1
+22254,Seymour (Vic.),2
+22261,Shelford,1
+22264,Shepparton,14
+22265,Shepparton East,1
+22266,Shepparton North,2
+22267,Sherbrooke,1
+22270,Silvan,1
+22272,Simpson (Vic.),1
+22279,Skipton,1
+22280,Skye (Vic.),1
+22288,Smythesdale,1
+22291,Soldiers Hill (Vic.),2
+22292,Somers,2
+22294,Somerville (Vic.),4
+22295,Sorrento (Vic.),2
+22304,Southbank,1
+22299,South Melbourne,2
+22300,South Morang,3
+22303,South Yarra,5
+22308,Spotswood,2
+22311,Springbank,1
+22309,Spring Gully (Vic.),1
+22315,Springhurst,1
+22318,Springvale South,3
+22317,Springvale (Vic.),7
+22319,St Albans (Vic.),13
+22321,St Andrews (Vic.),1
+22339,Stanhope (Vic.),1
+22323,St Arnaud,3
+22343,Stawell,5
+22328,St Helena,1
+22333,St Kilda East,6
+22332,St Kilda (Vic.),3
+22335,St Leonards (Vic.),1
+22358,Stratford (Vic.),2
+22364,Strathewen,1
+22365,Strathfieldsaye,2
+22368,Strathmerton,1
+22369,Strathmore (Vic.),4
+22379,Sunbury,13
+22384,Sunshine North,5
+22383,Sunshine (Vic.),4
+22385,Sunshine West,7
+22387,Surrey Hills,4
+22393,Swan Hill,7
+22397,Swan Reach (Vic.),1
+22401,Swifts Creek,1
+22402,Sydenham (Vic.),3
+22407,Taggerty,1
+22411,Talbot (Vic.),1
+22412,Talgarno,1
+22414,Tallangatta,3
+22417,Tallangatta Valley,1
+22418,Tallarook,1
+22419,Tallygaroopna,1
+22421,Tambo Upper,1
+22429,Tangambalanga,1
+22432,Tanjil South,1
+22435,Taradale (Vic.),1
+22438,Tarnagulla,1
+22439,Tarneit,6
+22450,Tarrington,1
+22453,Tarwin Lower,1
+22455,Tatura,2
+22458,Tawonga,1
+22461,Taylors Hill,2
+22462,Taylors Lakes,2
+22464,Tecoma,1
+22467,Teesdale (Vic.),1
+22471,Templestowe,3
+22472,Templestowe Lower,4
+22473,Tempy,1
+22476,Terang,2
+22484,The Basin (Vic.),3
+22489,The Patch,1
+22492,Thomastown,9
+22494,Thomson (Greater Geelong - Vic.),3
+22495,Thoona,1
+22496,Thornbury,8
+22498,Thorpdale,1
+22503,Timboon,1
+22506,Timor (Vic.),1
+22515,Tongala,2
+22520,Tooborac,1
+22521,Toolamba,1
+22523,Toolangi,1
+22524,Toolern Vale,1
+22530,Toongabbie (Vic.),1
+22533,Tooradin,1
+22534,Toorak,4
+22531,Toora (Vic.),1
+22535,Toorloo Arm,1
+22537,Tootgarook,1
+22538,Torquay (Vic.),3
+22540,Torrumbarry,1
+22552,Trafalgar (Vic.),3
+22556,Traralgon,9
+22558,Traralgon South,1
+22559,Travancore,2
+22560,Trawalla,1
+22564,Trentham,1
+22569,Truganina,4
+22573,Tullamarine,1
+22574,Tungamah,1
+22581,Tyabb,3
+22583,Tyers,1
+22584,Tylden,1
+22585,Tynong,1
+22595,Ultima,1
+22598,Undera,1
+22599,Underbool,1
+22601,Upper Ferntree Gully,1
+22604,Upper Plenty,1
+22607,Upwey,3
+22614,Vermont,4
+22615,Vermont South,5
+22620,Viewbank,2
+22622,Violet Town,1
+22626,Waaia,1
+22631,Wahgunyah,1
+22648,Wallan,2
+22650,Wallington,1
+22654,Walpeup,1
+22655,Walwa,1
+22658,Wandiligong,1
+22660,Wandin North,2
+22663,Wandong,1
+22667,Wangaratta (Vic.),12
+22672,Wantirna,5
+22673,Wantirna South,7
+22676,Warburton (Vic.),1
+22684,Warracknabeal,4
+22685,Warragul,8
+22689,Warrandyte,3
+22691,Warranwood,2
+22694,Warrenheip,1
+22697,Warrnambool,12
+22708,Watsonia,2
+22709,Watsonia North,1
+22714,Wattle Glen,1
+22716,Waubra,1
+22717,Waurn Ponds,1
+22720,Wedderburn (Vic.),1
+22729,Welshpool (Vic.),1
+22731,Wendouree,5
+22736,Werribee,13
+22738,Werrimull,1
+22739,Wesburn,1
+22742,West Footscray,2
+22747,Westmeadows,1
+22743,West Melbourne,1
+22744,West Wodonga,4
+22752,Wheelers Hill,8
+22755,White Hills (Vic.),3
+22758,Whitfield (Vic.),1
+22760,Whittington,2
+22761,Whittlesea,3
+22763,Whorouly,1
+22774,Willaura,1
+22778,Williamstown (Vic.),5
+22780,Willow Grove,1
+22781,Willowmavin,1
+22788,Winchelsea,1
+22791,Windsor (Vic.),2
+22800,Winton (Vic.),1
+22804,Wodonga,8
+22810,Wonga Park,1
+22814,Wonthaggi,5
+22818,Woodend (Vic.),2
+22821,Woodford (Vic.),1
+22826,Woodside (Vic.),1
+22836,Woolsthorpe,1
+22837,Woomelang,1
+22838,Wooragee,1
+22845,Woorinen South,1
+22842,Woori Yallock,1
+22858,Wunghnu,1
+22860,Wurruk,1
+22862,Wycheproof,1
+22868,Wyndham Vale,4
+22871,Yaapeet,1
+22874,Yackandandah,1
+22877,Yallambie,1
+22879,Yallourn North,1
+22887,Yandoit,1
+22895,Yarra Glen,1
+22898,Yarragon,1
+22896,Yarra Junction,4
+22900,Yarram,3
+22901,Yarrambat,2
+22902,Yarraville,5
+22904,Yarrawonga (Vic.),3
+22909,Yea,3
+22910,Yellingbo,1
+22915,Yering,1
+22919,Yinnar,1
+22920,Yinnar South,1
+22928,Zeerust,1
